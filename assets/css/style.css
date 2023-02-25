@@ -1,0 +1,37 @@
+/* fichier style.css */
+body {
+    background-color: rgb(113, 3, 238);
+    font-size: 14px;
+    width: 100vw;
+    height: 100vh;
+  }
+  #page {
+    background-color: #fff;
+    border: solid 2px #000;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  #entete {
+    display: inline-block;
+    text-align: center;
+  }
+
+  #aboutme {
+    display: inline-block;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+  
+  h2 {
+    font-size: 1.2em;
+  }
+  
+  footer {
+    text-align: center;
+    font-weight: bold;
+  }
